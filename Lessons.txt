@@ -3,7 +3,7 @@
 <title>Lessons in ICT</title>
 </head>
 
-<body bgcolor="FC9483" text="#5d1639">>
+<body bgcolor="FC9483" text="#5d1639">
 <font color="white"><h1 align="center"> --LESSONS IN ICT QUARTER 1--</h1></font>
  <hr color="Teal" size="10">
 <p align="center">
