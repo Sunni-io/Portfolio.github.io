@@ -1,0 +1,23 @@
+
+<html>
+<head>
+<title>My E-Portfolio</title>
+</head>
+
+<body bgcolor="coral">
+<font color="white"><h1 align="center"> MY E-PORTFOLIO</h1></font>
+ <hr color="Teal" size="10">
+<p align="center">
+<a href="about_me.html" > <img src="Abt Button.png" alt="click here to learn about me!" width="300" height="80"> </a> <br><br>
+<a href="Activities.html"> <img src="AandE.png" alt="click here to see <br> the activities we have at school!" width="300" height="80"> </a> <br><br>
+<a href="Lessons.html"> <img src="lesson button.png" alt="click here to see <br> Lessons we had this quarter (including example codes)" width="300" height="80"> </a><br><br>
+<a href="Reflection.html"> <img src="Reflect button.png" alt="click here to see <br> my reflection about the first quarter!" width="300" height="80"> </a>
+<a href="Feedback.html"> <img src="feedback button.png" alt="click here to answer <br> a survey" width="300" height="80"> </a>
+</p>
+<br>
+
+ </p>
+<hr color="Teal" size="10">
+</p>
+</body>
+</html>
