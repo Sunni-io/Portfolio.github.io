@@ -11,16 +11,16 @@
 
 <p>How was my E-Portfolio?</p>
 <p><input name="q1" type="radio">Good</p>
-<p><input name="q2" type="radio">Somewhat Good</p>
-<p><input name="q3" type="radio">Neutral</p>
-<p><input name="q4" type="radio">Somewhat Bad</p>
-<p><input name="q4" type="radio">Bad</p>
+<p><input name="q1" type="radio">Somewhat Good</p>
+<p><input name="q1" type="radio">Neutral</p>
+<p><input name="q1" type="radio">Somewhat Bad</p>
+<p><input name="q1" type="radio">Bad</p>
 
 <p>Please vote which part(s) were your favorite </p>
-<p><input name="q1" type="checkbox">About Me</p>
+<p><input name="q2" type="checkbox">About Me</p>
 <p><input name="q2" type="checkbox">Activities</p>
-<p><input name="q3" type="checkbox">Lessons</p>
-<p><input name="q4" type="checkbox">Reflection</p>
+<p><input name="q2" type="checkbox">Lessons</p>
+<p><input name="q2" type="checkbox">Reflection</p>
 
 <p>Kindly explain why this is your favorite </p>
 <p><textarea name="explaination" rows="10" cols="20"></textarea> </p>
