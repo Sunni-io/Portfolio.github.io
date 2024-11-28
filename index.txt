@@ -1,23 +1,44 @@
-
+<!DOCTYPE html>
 <html>
 <head>
 <title>My E-Portfolio</title>
+<style>
+.container {display:flex;}
+.act{float:right;}
+</style>
 </head>
 
 <body bgcolor="coral">
 <font color="white"><h1 align="center"> MY E-PORTFOLIO</h1></font>
  <hr color="Teal" size="10">
-<p align="center">
-<a href="About_me.html" > <img src="Abt button.png" alt="click here to learn about me!" width="300" height="80"> </a> <br><br>
-<a href="Activities.html"> <img src="AandE.png" alt="click here to see <br> the activities we have at school!" width="300" height="80"> </a> <br><br>
-<a href="Lessons.html"> <img src="lesson button.png" alt="click here to see <br> Lessons we had this quarter (including example codes)" width="300" height="80"> </a><br><br>
-<a href="Reflection.html"> <img src="Reflect button.png" alt="click here to see <br> my reflection about the first quarter!" width="300" height="80"> </a><br><br>
-<a href="Feedback.html"> <img src="feedback button.png" alt="click here to answer <br> a survey" width="300" height="80"> </a>
-</p>
-<br>
 
- </p>
-<hr color="Teal" size="10">
+<span class="container">
+<span class="main">
+<a href="About_me.html" > <img src="abtbutton.png" alt="click here to learn about me!" width="300" height="80"> </a>
+<br><br>
+
+<a href="Feedback.html"> <img src="feedback button.png" alt="click here to answer <br> a survey" width="300" height="80"> </a> </span>
+
+<span class="pics"> <p align="center"><img src="center.png" width="30%"></p></span>
+
+
+<span class="act">
+ <a href="Activities.html"> <img src="aq1.png"  alt="click here to see <br> the activities we have at school! (qtr 1)" width="300" height="80"> </a><br><br>
+ <a href="Activities2.html"> <img src="aq2.png"  alt="click here to see <br> the activities we have at school! (qtr 2)" width="300" height="80"> </a>
+<br>
+</span>
+</span>
+
+
+<hr size="10"style="border: 5px dashed teal;">
+<p>
+
+<br><a href="Reflection.html"> <img src="Reflect button.png" alt="click here to see <br> my reflection about the first quarter!" width="300" height="100"> </a>  <br>
 </p>
+
+<hr size="10"style="border: 5px dashed teal;">
+<a href="Lessons.html"> <img src="lesson button.png" alt="click here to see <br> Lessons we had this quarter (including example codes)" width="300" height="80"> </a><br>
+
+<hr color="teal" size="10">
 </body>
 </html>
