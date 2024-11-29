@@ -1,2 +1,50 @@
- p {color:white;background-color:coral;}
- h1{background-color:black;color:white;}
+
+<!DOCTYPE html>
+<html>
+
+<head><title> Lessons and Browser Outputs</title>
+<link rel="stylesheet" href="lessons2.css" type="text/css">
+</head>
+
+<h1> Lesson: CSS Types</h1>
+<h3>   --Inline CSS-- </h3>
+<img src="L1inline.png" alt="Inline CSS" width="650" height="400">
+<img src="L1inline2.png" alt="Output" width="900" height="400">
+
+<hr size="5"style="border: 3px dashed white;">
+
+
+<h3> --Internal CSS-- </h3>
+<img src="L1internal.png" alt="Internal CSS" width="650" height="400">
+<img src="L1internal2.png" alt="Output" width="900" height="400">
+
+<hr size="5"style="border: 3px dashed white;">
+
+
+<h3> --External CSS-- </h3>
+<img src="L1external.png" alt="external CSS" width="650" height="400">
+<img src="L1external2.png" alt="Output" width="900" height="400">
+<img src="L1external3.png" alt="external CSS file" width="300" height="100">
+
+
+
+<h1> Lesson: Div, Span, & Link</h1>
+<img src="L2displi.png" alt="Div, Span, & Link code" width="680" height="500">
+<video width="850" height="520" controls>
+  <source src="L2displi2.mp4" type="video/mp4">
+</video>
+<img src="L2displi3.png" alt="Div, Span, & Link CSS" width="450" height="130">
+
+
+
+<h1> Lesson: Formatting Text</h1>
+<img src="L3formatT.png" alt="Formatting text" width="579" height="410">
+<img src="L3formatT2.png" alt="Formatting text output" width="970" height="410">
+
+
+<h1> Lesson: Formatting Layout</h1>
+<img src="L4formatL.png" alt="Formatting layout" width="579" height="400">
+<img src="L4formatL2.png" alt="Formatting layout output" width="984" height="410">
+</div>
+</body>
+</html>
