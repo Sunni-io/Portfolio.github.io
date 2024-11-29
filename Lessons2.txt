@@ -3,7 +3,7 @@
 <html>
 
 <head><title> Lessons and Browser Outputs</title>
-<link rel="stylesheet" href="lessons2.css" type="text/css">
+<link rel="stylesheet" href="Lessons2.css" type="text/css">
 </head>
 
 <h1> Lesson: CSS Types</h1>
