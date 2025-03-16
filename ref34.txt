@@ -1,0 +1,39 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>My E-Portfolio</title>
+</head>
+
+<body bgcolor="#b3e0dc" text="#025043" align="center">
+<font color="white"><h1 align="center" style="background-color:cadetblue;"> --REFLECTION--</h1></font>
+ <hr size="10" style="border-top: 8px dotted teal;border-bottom: 8px dashed teal;">
+
+<button onclick="ody()">Do you want to see my reflection?</button>
+
+<p id="demo"></p>
+
+<script type="text/javascript">
+function ody() {
+  var txt;
+  if (confirm("click here if yes, exit if no")) {
+    txt = "I find it hard to believe that it's 4th quarter already, it feels like less than a month ago we just started grade 9. I've made many good friends in grade 9 and I feel sad that we won't be in the same section again next year.  In ICT throughout this school year I've learned many things, We recapped on HTML, and learned CSS and JavaScript. In grade 8 I used to think html was the most difficult thing ever and that I would never understand even 1 percent of the future coding languages to learn, my how times have changed.Now, have I mastered JavaScript and CSS? Goodness no, I don't think I'm even close. I know I have difficulty memorizing things and I still get mixed up on definitions and coding formats that's something I can definitely still improve on. But I think the important thing is I've tried my best to understand the lessons, and that despite all difficulties, at least I learned something new. I dont know what to expect for grade 10, all I know is its gonna get harder from here. However, I still look forward on whats to come and greet the future with open arms.  ";
+  } else {
+    txt = "oh okay ^^ <br> but i really reccomend checking it out!";
+  }
+  document.getElementById("demo").innerHTML = txt;
+}
+</script>
+
+<br>
+
+ <hr size="10" style="border-bottom: 8px dotted teal;border-top: 8px dashed teal;">
+
+<p align="center">
+<a href="index.html"> <img src="Back.png" alt="Go Back?" width="300" height="80"> </a> </p>
+
+
+</body>
+</html>

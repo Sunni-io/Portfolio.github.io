@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html>
+
+<head><title> Lessons and Browser Outputs</title>
+<link rel="stylesheet" href="lessons2.css" type="text/css">
+</head>
+
+<h1> Lesson 1</h1>
+
+<img src="les1.png" alt="alert" width="650" height="400">
+<video width="750" height="400" controls>
+  <source src="les1.mp4" type="video/mp4">
+</video>
+
+
+<h1> Lesson 2</h1>
+<img src="les2.png" alt="if-else" width="650" height="400">
+<video width="750" height="400" controls>
+  <source src="les2.mp4" type="video/mp4">
+</video>
+
+
+
+<h1> Lesson 3</h1>
+<img src="les3.png" alt="switch" width="650" height="400">
+<video width="750" height="400" controls>
+  <source src="les3.mp4" type="video/mp4">
+</video>
+
+
+<h1> Lesson 4</h1>
+<img src="les4.png" alt="code" width="650" height="400">
+<img src="les4o.png" alt="output" width="650" height="400">
+</div>
+</body>
+</html>

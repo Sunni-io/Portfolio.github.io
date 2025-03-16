@@ -1,0 +1,116 @@
+<html>
+<head>
+<title> Class activity </title>
+</head>
+<body bgcolor="#b3e0dc" text="#025043">
+
+<table border="3" align="center" cellpadding="10" bordercolor="#036c5f" background="MainBg2.png"> <th colspan="3" > Activities and Events in Family </th>
+ <tr align="center"> <td>Activities</td> <td> Events </td> </tr>
+<tr> <td> <ol type="bullet">
+
+<li><i> Vpop Performance</i> <br> We got 1st place!! </li>
+<br><video width="400" height="220" controls>
+  <source src="awardingvpop.mp4" type="video/mp4">
+</video>
+ <li><i>Historical Figure</i> <br> We had to make a costume<br> for our AP performance task</li>
+<img src="hisicon1.jpg" alt="AP" width="260" height="160">
+<img src="hisicon2.jpg" alt="AP" width="260" height="160">
+
+
+<li><i> Science</i> <br> We were assigned to make a fashion show about <br> the elements of the periodic table </li>
+<video width="400" height="220" controls>
+  <source src="elimentals.mp4" type="video/mp4">
+</video><br>
+<video width="400" height="220" controls>
+  <source src="group2sci.mp4" type="video/mp4">
+</video>
+<li> <i>Cha Cha</i> <br> For our PT in MAPEH, we had to dance the cha cha </li>
+<img src="chacha1.jpg" alt="chacha dance" width="280" height="240">
+<img src="chacha2.jpg" alt="chacha dance" width="280" height="240">
+
+
+ <td> <ol type="bullet">
+ <li> <i>Teachers Day</i> <br> We celebrated with our beloved teachers</li>
+<img src="trs1.jpg" alt="Photo of us on Teachers Day" width="280" height="190">
+<br><br><video width="400" height="220" controls>
+  <source src="trs1.mp4" type="video/mp4">
+</video>
+<li><i> AP Month </i><br> We presented the costume we made</li>
+<video width="500" height="300" controls>
+  <source src="ap1.mp4" type="video/mp4">
+</video>
+<li><i> English Month</i> <br> We got to dress up as book characters </li>
+<img src="e1.jpg" alt="Me and Zatee with matching costumes" width="260" height="230">
+<img src="e2.jpg" alt="Me and friends" width="260" height="230"> </td> 
+
+
+ </td> </tr>
+ </table>
+<p align="center">
+<a href="index.html"> <img src="Back.png" alt="Go Back?" width="300" height="80"> </a> </p>
+
+
+ <html>
+<head>
+<title> Class activity </title>
+</head>
+<body bgcolor="#b3e0dc" text="#025043">
+
+<table border="3" align="center" cellpadding="10" bordercolor="#036c5f" background="MainBg2.png"> <th colspan="3" > Activities and Events in Family </th>
+ <tr align="center"> <td>Activities</td> <td> Events </td> </tr>
+<tr> <td> <ol type="bullet">
+
+
+ <li><i>Historical Figure</i> <br> We had to make a costume<br> for our AP performance task</li>
+<img src="hisicon1.jpg" alt="AP" width="260" height="160">
+<img src="hisicon2.jpg" alt="AP" width="260" height="160">
+<li><i> Vpop Practice</i> <br> We have to make a song and dance <br> for ESP month </li>
+<img src="vpop1.jpg" alt="vpop (1)" width="240" height="160">
+<img src="vpop2.jpg" alt="vpop (2) " width="240" height="160">
+<br><video width="400" height="220" controls>
+  <source src="vpop3.mp4" type="video/mp4">
+</video>
+
+<li>The songs we used (the original version):</li>
+<audio controls>
+  <source src="song2.mp3" type="audio/mp3">
+</audio>
+<audio controls>
+<source src="song1.mp3" type="audio/mp3">
+</audio>
+
+<li><i> Science</i> <br> We were assigned to make a fashion show about <br> the elements of the periodic table </li>
+<video width="400" height="220" controls>
+  <source src="elimentals.mp4" type="video/mp4">
+</video><br>
+<video width="400" height="220" controls>
+  <source src="group2sci.mp4" type="video/mp4">
+</video>
+<li> <i>Cha Cha</i> <br> For our PT in MAPEH, we had to dance the cha cha </li>
+<img src="chacha1.jpg" alt="chacha dance" width="280" height="240">
+<img src="chacha2.jpg" alt="chacha dance" width="280" height="240">
+
+
+ <td> <ol type="bullet">
+ <li> <i>Teachers Day</i> <br> We celebrated with our beloved teachers</li>
+<img src="trs1.jpg" alt="Photo of us on Teachers Day" width="280" height="190">
+<br><br><video width="400" height="220" controls>
+  <source src="trs1.mp4" type="video/mp4">
+</video>
+<li><i> AP Month </i><br> We presented the costume we made</li>
+<video width="500" height="300" controls>
+  <source src="ap1.mp4" type="video/mp4">
+</video>
+<li><i> English Month</i> <br> We got to dress up as book characters </li>
+<img src="e1.jpg" alt="Me and Zatee with matching costumes" width="260" height="230">
+<img src="e2.jpg" alt="Me and friends" width="260" height="230"> </td> 
+
+
+ </td> </tr>
+ </table>
+<p align="center">
+<a href="index.html"> <img src="Back.png" alt="Go Back?" width="300" height="80"> </a> </p>
+
+
+ </body>
+</html>
